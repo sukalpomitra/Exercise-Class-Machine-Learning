@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/96404/616caad61e224b5285f8171d23dd9b21
+url: http://rpubs.com/sukalpo/96404
+when: 1437935156.89648
